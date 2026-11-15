@@ -4,7 +4,6 @@ import config from './app/config';
 import "./app/helper/cronjobHandler"
 import 'dotenv/config';
 
-
 const PORT = config.port;
 
 const main = async () => {
