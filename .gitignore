@@ -139,7 +139,6 @@ $RECYCLE.BIN/
 *.lnk
 
 *.code-workspace
-.env
 
 # Local History for Visual Studio Code
 .history/
@@ -150,3 +149,4 @@ $RECYCLE.BIN/
 branch_structure.json
 .gitignore
 
+config.bat
